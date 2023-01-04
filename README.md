@@ -1,6 +1,3 @@
 # Bank-Loan-Default-Prediction
 
-This project aims to tackle the day-to-day challenge faced by financial institutions, which is loan payment default. My team and I implemented 3 machine learning models
-that can be used as a  reference tool to predict if a person will default on a loan payment based on credit score and other information provided by them. 
-These models will help financial institutions to make the decision on whether to issue the loan or not so that the risk can be minimized and at the same 
-time profit can be maximized.
+This project intends to address the ongoing issue of loan payment default that financial institutions deal with on a daily basis. Based on a person's credit score and other information supplied by them, my team and I created three machine learning models that may be used as a reference tool to determine if that person would miss a loan payment.These models will assist financial organisations in deciding whether to grant the loan or not in order to reduce risk and increase profit.
